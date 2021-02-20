@@ -1,7 +1,7 @@
 # Hi there, im Xenon 👋
 ![XenonIsAwesome](https://github-readme-stats.vercel.app/api?username=XenonIsAwesome&hide=contribs,issues&theme=dark)
 
-## Check out PhoneBot
+## Check out [PhoneBot](https://www.github.com/XenonIsAwesome/PhoneBot)
 ![PhoneBot](https://github-readme-stats.vercel.app/api/pin?username=XenonIsAwesome&repo=PhoneBot&theme=dark)
 
 <!--
