@@ -1,5 +1,8 @@
 # Hi there, im Xenon 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenonIsAwesome&hide=contribs,issues&theme=dark)
+![XenonIsAwesome](https://github-readme-stats.vercel.app/api?username=XenonIsAwesome&hide=contribs,issues&theme=dark)
+
+Check out PhoneBot
+![PhoneBot](https://github-readme-stats.vercel.app/api/pin?username=XenonIsAwesome&repo=PhoneBot&theme=dark)
 
 <!--
 **XenonIsAwesome/XenonIsAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
