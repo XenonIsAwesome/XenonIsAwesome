@@ -1,8 +1,8 @@
 # Hi there, im Xenon 👋
-![XenonIsAwesome](https://github-readme-stats.vercel.app/api?username=XenonIsAwesome&hide=contribs,issues&theme=dark)
+[![XenonIsAwesome](https://github-readme-stats.vercel.app/api?username=XenonIsAwesome&hide=contribs,issues&theme=dark)](https://www.github.com/XenonIsAwesome/)
 
 ## Check out my cool projects
-![PhoneBot](https://github-readme-stats.vercel.app/api/pin?username=XenonIsAwesome&repo=PhoneBot&theme=dark)
+[![PhoneBot](https://github-readme-stats.vercel.app/api/pin?username=XenonIsAwesome&repo=PhoneBot&theme=dark)](https://www.github.com/XenonIsAwesome/PhoneBot)
 [![AbsurdOrigins](https://github-readme-stats.vercel.app/api/pin?username=XenonIsAwesome&repo=AbsurdOrigins&theme=dark)](https://www.github.com/XenonIsAwesome/AbsurdOrigins)
 
 <!--
