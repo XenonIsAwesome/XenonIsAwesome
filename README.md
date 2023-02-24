@@ -1,4 +1,4 @@
-Currently working on [https://www.github.com/XenonIsAwesome/Barista](Barista ☕️)
+Currently working on [Barista ☕️](https://www.github.com/XenonIsAwesome/Barista)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀                                                                          
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀                                                        
